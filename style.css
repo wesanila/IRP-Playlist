@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+  background: #f7f8fa;
+  color: #222;
+  line-height: 1.6;
+  overflow-x: hidden;
+}
+
+header {
+  text-align: center;
+  padding: 2rem 1rem;
+  background: linear-gradient(135deg, #89f7fe, #66a6ff);
+  color: #fff;
+}
+
+header a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+nav {
+  position: sticky;
+  top: 0;
+  background: #ffffffee;
+  backdrop-filter: blur(8px);
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  padding: 0.8rem;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+  font-weight: 600;
+  transition: color 0.3s;
+}
+
+nav a:hover {
+  color: #0077ff;
+}
+
+main {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.song-card {
+  background: #fff;
+  border-radius: 1rem;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  margin-bottom: 2rem;
+  padding: 1.5rem;
+  transition: transform 0.3s ease;
+}
+
+.song-card:hover {
+  transform: translateY(-5px);
+}
+
+.song-card h2 {
+  color: #0077ff;
+  margin-bottom: 0.8rem;
+  text-align: center;
+}
+
+iframe {
+  width: 100%;
+  height: 152px;
+  border: none;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+}
+
+.song-card p {
+  text-align: center;
+}
+
+.links {
+  text-align: center;
+}
+
+.links ul {
+  list-style: none;
+  margin-top: 1rem;
+}
+
+.links a {
+  color: #0077ff;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
+
+.fade-in {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: all 0.8s ease;
+}
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
