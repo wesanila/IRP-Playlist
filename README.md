@@ -1,7 +1,3 @@
-<!-- Note -->
->[!NOTE]
->This was an English project.
-
 <!-- Alignment -->
 <div align="center">
   <!-- Header -->
