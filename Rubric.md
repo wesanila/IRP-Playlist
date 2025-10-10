@@ -1,3 +1,5 @@
+<img width="1741" height="87" alt="image" src="https://github.com/user-attachments/assets/7897c1e3-3511-4af0-95ea-82670e454ae4" />
+
 | **Category** | **High Performance** | **Proficient** | **Developing** |
 |---------------|----------------------|----------------|----------------|
 | **Demonstration of Comprehension and Analysis** | Reflection project shows clear, insightful understanding of the characterization, plot, setting, etc. Additionally, the project deeply explores the author’s style and/or theme, and/or otherwise demonstrates an evaluative understanding of the novel.<br>**(5 points)** | Reflection project shows understanding of characterization, plot, setting, etc. There is exploration of style and/or theme, and/or otherwise demonstrates a less thorough evaluative understanding of the novel.<br>**(3 points)** | Reflection project shows understanding of characterization, plot, setting, etc. However, project does not attempt to demonstrate deeper explorations or understandings of the novel.<br>**(2 points)** |
